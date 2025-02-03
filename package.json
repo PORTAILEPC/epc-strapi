@@ -9,10 +9,10 @@
     "build": "strapi build"
   },
   "dependencies": {
-    "strapi": "4.14.2",
-    "pg": "^8.11.0",
+    "strapi": "^4.14.2",
+    "pg": "^8.11.0"
   },
   "engines": {
-    "node": "16.x"
+    "node": ">=16.0.0"
   }
 }
