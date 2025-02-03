@@ -11,7 +11,6 @@
   "dependencies": {
     "strapi": "4.14.2",
     "pg": "^8.11.0",
-    "dummy-package": "^0.0.1"
   },
   "engines": {
     "node": "16.x"
